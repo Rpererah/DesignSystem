@@ -1,0 +1,4 @@
+{
+  "extends": "@rpererah-ui/ts-config/base.json",
+  "include": ["src", "../src"]
+}
